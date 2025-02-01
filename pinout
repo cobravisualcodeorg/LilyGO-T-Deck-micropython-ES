@@ -1,0 +1,24 @@
+
+### Pinout LILYGO T-Deck (ESP32-S3):
+
+1. **SPI:**
+   - **SCK:** Pin 40
+   - **MOSI:** Pin 41
+   - **MISO:** Pin 38
+
+2. **Pantalla TFT (ST7789):**
+   - **DC:** Pin 11
+   - **CS:** Pin 12
+   - **BL:** Pin 42
+
+3. **Teclado:**
+   - **PWR:** Pin 10
+   - **INT:** Pin 46
+
+4. **ADC :**
+   - **Batería:** Pin 4
+
+5. **I2C:**
+   - **SCL:** Pin 8
+   - **SDA:** Pin 18
+
